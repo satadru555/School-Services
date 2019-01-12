@@ -1,6 +1,7 @@
 server:
   port: 9098
 
+
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 1
